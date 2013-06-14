@@ -27,9 +27,9 @@ Email attched of course!
 
 
 
-EXAMPLE & really long output below 
->>site scanned: housing.ufl.edu
->>for links to: housing.ufl.edu 
+EXAMPLE & really long output below (best viewed as RAW text)
+site scanned: housing.ufl.edu
+for links to: housing.ufl.edu 
 checking for links on our own site that are broken or that were not changed when we moved to the wordpress CMS
 
 
