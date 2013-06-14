@@ -9,12 +9,16 @@ Runs in terminal.
 Last issues: 
 --Will check single pages twice: no detection that a page has already been swept
 --SLOW: 45 minute runtime on medium sized site with only 5 crawling depth into the site
+--Does not work with relative links yet
+--won't aknowledge other than first link if there are more than one on a line
 
 Upcoming (Speculated Update)
 --Restructure
 --Make multithreaded
 --Perhaps collect webpages first THEN scan each for errors?
 --Evetually a UI  (Processing API could make it look nice) 
+--Stop flagging anchor hashtags 
+
 
 
 Email attched of course!
